@@ -1,0 +1,63 @@
+{
+    "Recess": {
+        "template": "\nHere are some things to do at recess.\n1. Start a game of touch {body_part} ball.\n2. Put a {noun} in someones lunch.\n3. Start a {vegetable} fight in the school {adjective} room.\n4. Choose sides and have a {verb} ball tournament.\n5. Demand more {second_noun} and shorter {second_adjective} classes.\n6. Choose {number} kids to be it at the game {second_verb}.",
+        "placeholders": [
+            "body_part",
+            "noun",
+            "vegetable",
+            "adjective",
+            "verb",
+            "second_noun",
+            "second_adjective",
+            "number",
+            "second_verb"
+        ]
+    },
+    "Pizza": {
+        "template": "\nPizza was invented by a {adjective} {nationality}\nchef named {person}. To make a pizza you need to take a lump of {noun}, and make a thin, round\n{second_adjective} {second_noun}. Then you cover it with {third_adjective} sauce, {fourth_adjective} cheese , and fresh\nchopped {plural_noun}. Next you have to bake it in a very hot {third_noun}. When it is done, cut it into\n{number} {shape}s. Some kids like {food} pizza the best, but my favorite is the {second_food} pizza. If I could,\nI would eat pizza {second_number} times a day!",
+        "placeholders": [
+            "adjective",
+            "nationality",
+            "person",
+            "noun",
+            "second_adjective",
+            "second_noun",
+            "third_adjective",
+            "fourth_adjective",
+            "plural_noun",
+            "third_noun",
+            "number",
+            "shape",
+            "food",
+            "second_food",
+            "second_number"
+        ]
+    },
+    "Afraid Of The Dark": {
+        "template": "\nI was home alone and scared out of my {plural_noun}. \nI could hear the wind {verb_ending_in_ing} and off in the distance a {noun}\nwas howling. I crossed the room, locked the {second_noun}, and climbed into bed, \npulling the {second_plural_noun} over my {body_part}. Then it happened. I could hear a {third_noun} {second_verb_ending_in_ing}\nup the stairs. My {second_body_part} started to chatter and my knees began {third_verb_ending_in_ing}.\nThe {third_noun} was thrust open and there was a huge {fourth_noun} with hair all over his {third_body_part}.\nIt was my father. 'Hi, we are home,' he said {adverb}. 'Hope you were not afraid of staying home alone.'\n'No,' I said, lying through my {fourth_body_part}.",
+        "placeholders": [
+            "plural_noun",
+            "verb_ending_in_ing",
+            "noun",
+            "second_noun",
+            "second_plural_noun",
+            "body_part",
+            "third_noun",
+            "second_verb_ending_in_ing",
+            "second_body_part",
+            "third_verb_ending_in_ing",
+            "third_noun",
+            "fourth_noun",
+            "third_body_part",
+            "adverb",
+            "fourth_body_part"
+        ]
+    },
+    "New Story": {
+        "template": "This is a {adjective} story about a {noun}.",
+        "placeholders": [
+            "adjective",
+            "noun"
+        ]
+    }
+}
